@@ -2,3 +2,5 @@ Prototype exploratoire de visualisation interactive des données électorales de
 Intégré avec : R, Shiny, Leaflet et bslib.
 
 Le projet est en cours de développement et bonification.
+
+Toute erreur relève de l'auteur du projet et n'engage en rien Élections Québec.
